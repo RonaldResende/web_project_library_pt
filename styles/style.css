@@ -345,12 +345,13 @@
 .footer {
   box-sizing: border-box;
   background-color: #000000;
+  padding: 60px 80px;
 }
 
 .footer__columns {
   color: #fff;
   display: flex;
-  padding: 60px 80px;
+
   font-size: 16px;
 }
 
